@@ -1,0 +1,9 @@
+tree-sitter-python==0.23.2
+tree-sitter==0.23.2
+loguru==0.7.2
+chromadb==0.5.17
+google-cloud-aiplatform==1.71.1
+langchain==0.243.0
+langchain-google-vertexai==2.0.7
+pandas==2.2.3
+langchain-community==0.3.4
